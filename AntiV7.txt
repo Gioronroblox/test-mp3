@@ -1,5 +1,3 @@
-
-
 local Charar = game.Players.LocalPlayer.Character
 Charar["MeshPartAccessory"].Name = "Leg"
 
